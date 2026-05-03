@@ -23,8 +23,8 @@ A Java-based application designed to manage hospital operations efficiently, inc
 ## 💻 Tech Stack
 
 - Java  
-- JDBC (optional if used)  
-- MySQL (optional if used)  
+- JDBC   
+- MySQL 
 - Maven  
 
 ---
@@ -43,7 +43,7 @@ A Java-based application designed to manage hospital operations efficiently, inc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hospital-Management-System.git
+   git clone https://github.com/Dudhesakshi/Hospital-Management-System.git
 Open project in your IDE
 
 Configure database (if applicable):
@@ -83,9 +83,4 @@ Billing system
 Web-based UI (Servlet/JSP)
 🏥 Thank You!
 
----
 
-## 🔧 What you need to edit
-
-👉 Replace this:
-Sakshi Dudhe
